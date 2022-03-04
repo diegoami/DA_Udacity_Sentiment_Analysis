@@ -1,0 +1,6 @@
+pandas
+pandas-compat
+numpy
+nltk
+beautifulsoup4
+html5lib
